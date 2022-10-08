@@ -1,11 +1,28 @@
+@media(min-width-550px){
 .row {
     display: flex;
     flex-flow: row wrap;
     justify-content: space-between;
     gap: 4%;
 }
+}
 
-.figure {
+figure,
+    .span1{
+        flex-basis:48%;
+    }
+    .span3{
+        flex-basis:100%;
+    }
+    
+    .span3-1{
+        flex-basis:100%;
+    }
+
+@media(min-width:800px){
+    
+figure,
+.span3-1{
     flex-basis: 22%;
 }
 
@@ -23,7 +40,7 @@
 }
 
 .order-1 {
-    order:1;
+    order: 1;
 }
 
 .order-2 {
@@ -32,4 +49,5 @@
 
 .order-3 {
     order:3
+}
 }
