@@ -26,7 +26,8 @@ figure,
     flex-basis: 22%;
 }
 
-.span1 {
+.span1,
+ .span1-4{
     flex-basis: 48%;
 }
 
