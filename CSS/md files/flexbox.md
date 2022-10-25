@@ -23,8 +23,8 @@
 [Flexbox-froggy](https://flexboxfroggy.com/)
 
 ## To Know more about Flexbox click Below:-
-* [Flexbox in html](../HTML/flexbox/)
-* [Flexbox in css](../CSS/Flexbox/)
+* [Flexbox in html](../../HTML/flexbox/)
+* [Flexbox in css](../../CSS/Flexbox/)
 
 
 
